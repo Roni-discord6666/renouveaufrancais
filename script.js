@@ -12,19 +12,19 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
 const actualites = [
   {
     titre: 'Manifestation nationale contre le communisme',
-    date: '15 Mars 2024',
+    date: '15 Mars 2025',
     description:
       "Rejoignez-nous pour la grande manifestation nationale contre l'idéologie communiste.",
   },
   {
     titre: 'Conférence sur la liberté économique',
-    date: '20 Mars 2024',
+    date: '20 Mars 2025',
     description:
       "Une conférence débat sur les bienfaits de l'économie de marché.",
   },
   {
     titre: 'Rassemblement pour la défense de la République',
-    date: '25 Mars 2024',
+    date: '25 Mars 2025',
     description:
       'Défendons ensemble les valeurs républicaines et la démocratie.',
   },
